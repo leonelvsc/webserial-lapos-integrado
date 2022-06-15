@@ -1,0 +1,12 @@
+{
+  "name": "webserial-lapos-integrado",
+  "version": "1.0.0",
+  "dependencies": {
+    "rxjs": "^7.5.5",
+    "lodash": "^4.17.21",
+    "bignumber.js": "^9.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
