@@ -1,0 +1,29 @@
+{
+  "name": "webserial-lapos-integrado",
+  "version": "1.0.1",
+  "author": {
+    "name": "Leonel Franchelli",
+    "email": "lfranchelli@naxs.com.ar"
+  },
+  "license" : "MIT",
+  "repository": {
+    "type": "GitHub",
+    "url": "https://github.com/leonelvsc/webserial-lapos-integrado"
+  },
+  "keywords": [
+    "webserial",
+    "serial",
+    "lapos",
+    "prisma",
+    "la-pos",
+    "javascript"
+  ],
+  "dependencies": {
+    "rxjs": "^7.5.5",
+    "lodash": "^4.17.21",
+    "bignumber.js": "^9.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
