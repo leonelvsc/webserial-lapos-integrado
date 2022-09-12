@@ -22,7 +22,8 @@ async function ejemplo() {
   const manager = new Manager();
   const command = new TestCommand();
   try {
-    await manager.send(command);
+    const response = await manager.send(command);
+    console.log(response);
   } catch (e) {
     console.log(e);
   }
