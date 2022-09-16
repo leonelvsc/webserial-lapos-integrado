@@ -18,7 +18,7 @@ Ejemplo:
 import {Manager} from "./manager";
 import {TestCommand} from "./commands/test.command";
 
-async function ejemplo() {
+async ejemplo() {
   const manager = new Manager();
   const command = new TestCommand();
   try {
